@@ -31,16 +31,10 @@
 - Backend Development ✍️
 
 
-### :zap: Github Stats
-<p>
-    <a href="https://gitstats.me/khaleelhabeeb" target="_blank"> 
-        <img src="https://github-readme-stats.vercel.app/api?username=khaleelhabeeb&&show_icons=true&hi&theme=dark&count_private=true&include_all_commits=true">
-    </a>
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khaleelhabeeb&hide=css,html)
+![Stats](https://github-readme-stats.vercel.app/api?username=khaleelhabeeb&show_icons=true&count_private=true&hide=contribs)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=varadbhogayata&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 <div align="center">
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 
-<!--[website]: -->
-[linkedin]: https://www.linkedin.com/in/varadbhogayata
