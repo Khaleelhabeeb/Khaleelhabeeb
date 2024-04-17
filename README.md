@@ -31,7 +31,7 @@
 - Backend Development ✍️
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khaleelhabeeb)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khaleelhabeeb&hide=css,html)
 ![Stats](https://github-readme-stats.vercel.app/api?username=khaleelhabeeb&show_icons=true&count_private=true&hide=contribs)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=varadbhogayata&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
