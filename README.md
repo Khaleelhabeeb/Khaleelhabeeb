@@ -5,7 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-khaleelhabib02@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:khaleelhabib1234@gmail.com)](mailto:khaleelhabib1234@gmail.com) 
 [![twitter Badge](https://img.shields.io/twitter/follow/:khaleel_habib)](https://www.twitter.com/khaleel_habib/)
 
-- 🎯 Portfolio website: [Portfolio](https://khalilhabib.vercel.app/)
+- 🎯 Portfolio website: [Portfolio](https://github.com/khaleelhabeeb)
 - 💬 Ask me about anything, I am happy to help :smile:
 - 📬 How to reach me: (https://www.twitter.com/khaleel_habib/)
   
