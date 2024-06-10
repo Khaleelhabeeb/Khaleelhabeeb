@@ -27,6 +27,7 @@
 ### Things I love:
 - Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - Backend Development ✍️
+- LLMs And Generative Ai
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khaleelhabeeb&hide=css,html&layout=compact&theme=radical)
