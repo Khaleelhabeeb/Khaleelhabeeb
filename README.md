@@ -12,7 +12,7 @@
 ### Languages and Tools:
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,ts,rust,react,html,css,django,flask,fastapi,express,mysql,postgres,dynamodb,supabase,firebase,git,github,linux,docker,aws,cloudflare,bash&perline=10" />
+    <img src="https://skillicons.dev/icons?i=py,js,ts,rust,react,html,css,django,flask,fastapi,express,mysql,postgres,dynamodb,supabase,firebase,git,github,linux,docker,aws,cloudflare,bash&perline=12" />
   </a>
 </div>
 
@@ -24,6 +24,14 @@
 - LLMs And Generative Ai
 
 <br>
+
+<div align="center">
+  <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khaleelhabeeb&theme=react-dark&bg_color=0D1117&hide_border=true" alt="activity graph" />
+</div>
+
+<br>
+
 <div align="center">
   <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 </div>
