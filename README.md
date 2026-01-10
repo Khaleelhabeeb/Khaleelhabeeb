@@ -26,8 +26,12 @@
 <br>
 
 <div align="center">
-  <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khaleelhabeeb&theme=react-dark&bg_color=0D1117&hide_border=true" alt="activity graph" />
+  <a href="https://github.com/khaleelhabeeb">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=khaleelhabeeb&theme=react-dark&bg_color=0D1117&hide_border=true" width="48%" alt="activity graph" />
+  </a>
+  <a href="https://github.com/khaleelhabeeb">
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=khaleelhabeeb&layout=compact&theme=solarized-light" width="43%" alt="top langs" />
+  </a>
 </div>
 
 <br>
