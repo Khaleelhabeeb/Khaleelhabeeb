@@ -12,7 +12,7 @@
 ### Languages and Tools:
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,ts,rust,react,html,css,django,flask,fastapi,express,mysql,postgres,dynamodb,supabase,firebase,git,github,linux,docker,aws,cloudflare,bash&perline=12" />
+    <img src="https://skillicons.dev/icons?i=py,js,ts,rust,java,ai,react,html,css,django,flask,fastapi,express,mysql,postgres,dynamodb,supabase,firebase,git,github,linux,docker,aws,cloudflare,bash,postman&perline=12" />
   </a>
 </div>
 
